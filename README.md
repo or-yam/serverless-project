@@ -37,3 +37,5 @@
   - Lambda Functions
   - API Gateway
   - SES and SNS (for sending email notifications)
+
+## [How to get started with serverless](https://dev.to/oryam/getting-started-with-lambda-dynamodb-using-serverless-framework-147g) 
